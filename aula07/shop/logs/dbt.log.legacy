@@ -1,0 +1,7 @@
+2023-03-30 00:02:04.003623 (ThreadPoolExecutor-0_0): unclosed <ssl.SSLSocket fd=1232, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.176', 51780), raddr=('142.251.132.10', 443)>
+2023-03-30 00:03:40.592829 (ThreadPoolExecutor-0_0): unclosed <ssl.SSLSocket fd=2536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.176', 51881), raddr=('142.251.132.10', 443)>
+2023-03-30 00:05:32.539609 (ThreadPoolExecutor-0_0): unclosed <ssl.SSLSocket fd=168, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.176', 52040), raddr=('142.251.132.10', 443)>
+2023-03-30 00:09:58.126871 (MainThread): unclosed <ssl.SSLSocket fd=1876, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.176', 52465), raddr=('142.251.132.10', 443)>
+2023-03-30 00:09:58.127872 (MainThread): unclosed <ssl.SSLSocket fd=2480, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.176', 52468), raddr=('142.251.132.10', 443)>
+2023-03-30 00:15:26.847961 (MainThread): The 'warn' method is deprecated, use 'warning' instead
+2023-03-30 00:44:44.882722 (MainThread): The 'warn' method is deprecated, use 'warning' instead
